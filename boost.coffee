@@ -1,0 +1,5 @@
+ _            = require 'lodash'
+ -readLineSync = require 'readline-sync'
+  jsonfile     = require 'jsonfile'
+  moment       = require 'moment'
+  Promise      = require 'bluebird'
